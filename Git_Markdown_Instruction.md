@@ -54,3 +54,4 @@ id sem consectetuer libero luctus adipiscing.
 располагать в любом месте документа.
 
 ## Emphasis
+Текст для создания конфликта при слиянии веток!!!
